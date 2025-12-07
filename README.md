@@ -1,7 +1,7 @@
 ## This is a test
 
 # Header 1
-** Bold text**
+**Bold text**
 ## Header 2
 *Italic Text*
 ### Header 3
@@ -10,7 +10,7 @@
 
 [link to Google](https://www.google.com/)
 
-'inline code'
+' inline code '
 
 '''
 Code blocks
@@ -25,4 +25,4 @@ print("Hello!")
 |:---| :---|
 |Cell1| Cell2|
 
-![Icon made by Irfransusanto20 from www.flaticon.com](rabbit.png)
+[Icon made by Irfransusanto20 from www.flaticon.com](rabbit.png)
