@@ -20,22 +20,24 @@ print ("Hello!")
 ```
 use \`\`\` on both sides for code blocks
 
->Blockquote text goes here (\> at the beginning).
+>Blockquote text goes here 
+\> at the beginning.
 
 ---
 \-\-\- means horizontal line
 
-|Header A|HeaderB |
-|:---| ---|
-|Cell1| Cell2|
+
+|Header A|Header B |
+|:---|: ---|
+|Cell1| Cell 2|
 
 "|" for table, but do we need \: in front of \-\-\-?
-|Header A|HeaderB |
-|:---| :---|
-|Cell1| Cell2|
+|Header A|Header B |
+|---| ---|
+|Cell1| Cell 2|
 
-|Header A|HeaderB |
-|Cell1| Cell2|
+|Header A|Header B |
+|Cell1| Cell 2|
 
 ![Merry Christmas](leaves.png)
 <span style="color:red;">Merry Christmas!</span>
