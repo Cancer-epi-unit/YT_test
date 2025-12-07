@@ -8,7 +8,7 @@
 - Unordered list item 1 (\-)
 - unordered list item 2
 
-[\[link to Google\]](https://www.google.com/) text use \[\] and link use \(\)
+[link to Google](https://www.google.com/) text use \[\] and link use \(\)
 
 `inline code` 
 use \` on both sides for inline code
@@ -18,15 +18,24 @@ Code blocks
 chunck of codes
 print ("Hello!")
 ```
-use \`\`\` on both sides for inline code
+use \`\`\` on both sides for code blocks
 
 >Blockquote text goes here (\> at the beginning).
 
 ---
+\-\-\- means horizontal line
+
 |Header A|HeaderB |
 |:---| ---|
 |Cell1| Cell2|
-\-\-\- means horizontal line, \| means verticle line
 
-![SMerry Christmas](leaves.png)
-<span style="color:#e60000">Merry Christmas!</span>
+"|" for table, but do we need \: in front of \-\-\-?
+|Header A|HeaderB |
+|:---| :---|
+|Cell1| Cell2|
+
+|Header A|HeaderB |
+|Cell1| Cell2|
+
+![Merry Christmas](leaves.png)
+<span style="color:red;">Merry Christmas!</span>
