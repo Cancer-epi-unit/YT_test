@@ -26,7 +26,6 @@ use \`\`\` on both sides for code blocks
 
 \> at the beginning.
 
-
 ---
 \-\-\- means horizontal line
 
@@ -41,7 +40,7 @@ Q1: "|" for table, but do we need \: in front of \-\-\-?
 without :
 
 |Header A|Header B |
-|---| ---|
+|---|---|
 |Cell1| Cell 2|
 
 without middle \|\-\-\-\|\-\-\-\|
@@ -51,4 +50,5 @@ without middle \|\-\-\-\|\-\-\-\|
 
 ![Merry Christmas](leaves.png)
 <span style="color:red;">Merry Christmas!</span>
+
 Q2: Do you know how to change color and font in markdown?
