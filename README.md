@@ -10,6 +10,7 @@
 
 [link to Google](https://www.google.com/) text use \[\] and link use \(\)
 
+
 `inline code` 
 use \` on both sides for inline code
 
@@ -20,22 +21,30 @@ print ("Hello!")
 ```
 use \`\`\` on both sides for code blocks
 
+
 >Blockquote text goes here 
 
 \> at the beginning.
 
+
 ---
 \-\-\- means horizontal line
 
+with :
 
 |Header A|Header B |
 |:---|:---|
 |Cell1| Cell 2|
 
 Q1: "|" for table, but do we need \: in front of \-\-\-?
+
+without :
+
 |Header A|Header B |
 |---| ---|
 |Cell1| Cell 2|
+
+without middle \|\-\-\-\|\-\-\-\|
 
 |Header A|Header B |
 |Cell1| Cell 2|
