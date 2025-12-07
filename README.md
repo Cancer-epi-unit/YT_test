@@ -21,6 +21,7 @@ print ("Hello!")
 use \`\`\` on both sides for code blocks
 
 >Blockquote text goes here 
+
 \> at the beginning.
 
 ---
@@ -28,10 +29,10 @@ use \`\`\` on both sides for code blocks
 
 
 |Header A|Header B |
-|:---|: ---|
+|:---|:---|
 |Cell1| Cell 2|
 
-"|" for table, but do we need \: in front of \-\-\-?
+Q1: "|" for table, but do we need \: in front of \-\-\-?
 |Header A|Header B |
 |---| ---|
 |Cell1| Cell 2|
@@ -41,3 +42,4 @@ use \`\`\` on both sides for code blocks
 
 ![Merry Christmas](leaves.png)
 <span style="color:red;">Merry Christmas!</span>
+Q2: Do you know how to change color and font in markdown?
