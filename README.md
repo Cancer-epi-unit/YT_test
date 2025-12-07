@@ -10,13 +10,13 @@
 
 [link to Google](https://www.google.com/)
 
-' inline code '
+`inline code`
 
-'''
+```
 Code blocks
 chunck of codes
 print("Hello!")
-'''
+```
 
 >Blockquote text goes here.
 
@@ -25,4 +25,4 @@ print("Hello!")
 |:---| :---|
 |Cell1| Cell2|
 
-[Icon made by Irfransusanto20 from www.flaticon.com](rabbit.png)
+![Sunset in Milan](IMG_4711.HEIC)
