@@ -29,19 +29,27 @@ use \`\`\` on both sides for code blocks
 ---
 \-\-\- means horizontal line
 
-with :
+with : on the left
 
 |Header A|Header B |
 |:---|:---|
 |Cell1| Cell 2|
 
 Q1: "|" for table, but do we need \: in front of \-\-\-?
+A1: : are for alignment, :--- left, :---: central, and ---: for right
 
 without :
 
 |Header A|Header B |
 |---|---|
 |Cell1| Cell 2|
+
+with : on the right
+
+|Header A|Header B |
+|:---:|---:|
+|Cell1| Cell 2|
+|Protein1| Protein 2|
 
 without middle \|\-\-\-\|\-\-\-\|
 
